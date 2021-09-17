@@ -1,0 +1,18 @@
+/*Estilo da página index.html*/
+ .center{
+     text-align: center;
+     font-size: 30px;
+ }   
+  .container{
+      display: flex;
+      flex-flow: row;
+      justify-content: center;
+      align-items: center;
+  }  
+
+  body{
+      background-color:blueviolet;
+  }
+      
+
+/*Estilo da pagina contato.html*/
