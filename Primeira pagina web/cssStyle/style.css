@@ -1,0 +1,98 @@
+/**
+    Classes CSS de first.htm 
+*/
+
+.center {
+    text-align: center;
+    color: #CAD3C8;
+}
+
+.body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background: #050801;
+    font-family: 'Raleway', sans-serif;
+    font-weight: bold;
+}
+
+.justify {
+    text-align: justify;
+    text-justify: inter-word;
+}
+
+.container1 {
+    display: flex;
+    justify-content: center;
+    flex-flow: row;
+    align-items: center;
+    color: #CAD3C8;
+}
+
+#menu li {
+    display: inline;
+    padding: 15px;
+}
+
+#menu li a {
+    text-decoration: none;
+    color: #CAD3C8;
+    font-size: 20px;
+}
+
+#menu li a:hover {
+    color: #EAB543
+}
+
+.padding {
+    padding: 30px;
+}
+
+.bordas {
+    border-radius: 30%;
+}
+
+.cores {
+    border: 1px solid #EAB543;
+    border-radius: 30%
+}
+
+.la {
+    width: 350px;
+    height: 400px;
+}
+
+.h1 {
+    text-decoration: double;
+    color: aqua;
+}
+
+.gif {
+    width: 20%;
+    height: 20%;
+}
+
+
+/**
+    Classes de CSS - Curiosidde.html
+*/
+
+.end {
+    text-align: end;
+    padding-right: 5%;
+}
+
+.titulo {
+    color: #CAD3C8;
+    font-size: 25px;
+}
+
+.baaoimage {
+    border: 1px solid #EAB543;
+}
+
+.tm-redes {
+    width: 40px;
+    height: 40px;
+}
