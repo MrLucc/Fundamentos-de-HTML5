@@ -2,15 +2,31 @@
     Classes CSS de first.htm 
 */
 
-.center {
+.center-branco {
     text-align: center;
+    color: aliceblue;
+}
+
+.letra-branca {
+    color: aliceblue;
+}
+
+.p-letras {
     color: #CAD3C8;
+    text-align: center;
 }
 
 .body {
     display: flex;
     justify-content: center;
     align-items: center;
+    height: 100vh;
+    background: #050801;
+    font-family: 'Raleway', sans-serif;
+    font-weight: bold;
+}
+
+.body1 {
     height: 100vh;
     background: #050801;
     font-family: 'Raleway', sans-serif;
